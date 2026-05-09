@@ -3,7 +3,7 @@ name: meta-cli
 description: Use when managing multiple git repositories with the meta CLI, running commands across sub-repos, cloning a meta workspace, branching or committing across all repos, or troubleshooting meta exec expressions. Covers meta exec, meta git, meta project, meta npm/yarn, and filtering options.
 ---
 
-# using-meta-cli
+# meta-cli
 
 ## Overview
 
